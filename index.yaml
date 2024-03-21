@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/jiani-git/charts/releases/download/outlet-service-0.1.0/outlet-service-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-21T02:29:11.694227641Z"
+  testing-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-03-21T03:18:20.746113522Z"
+    description: A Helm chart for Kubernetes
+    digest: 9b305229470d98f6437086506ab517b0a1422b6d1e373ec15abf574e20d94e68
+    name: testing-chart
+    type: application
+    urls:
+    - https://github.com/jiani-git/charts/releases/download/testing-chart-0.1.0/testing-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-21T03:18:20.74612332Z"
