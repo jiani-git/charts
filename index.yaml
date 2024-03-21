@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  outlet-service:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-03-21T02:29:11.694218053Z"
+    description: A Helm chart for Kubernetes
+    digest: 0ac7f913c6ec38d44b3fcab61e0591befeb15c1745d047b28a765c6712ccf182
+    name: outlet-service
+    type: application
+    urls:
+    - https://github.com/jiani-git/charts/releases/download/outlet-service-0.1.0/outlet-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-21T02:29:11.694227641Z"
